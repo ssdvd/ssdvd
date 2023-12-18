@@ -11,7 +11,30 @@
   <img align="center" alt="ssdvd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ssdvd-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 </div>
-  
+Com 6 anos de experiência em suporte de T.I, formação em Análise e Desenvolvimento de Software e pós graduação em DevOps. 
+
+Certificações em tecnologias como: 
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner 
+- Microsoft Azure Fundamentals AZ-900
+- CertiProf LGPD.
+
+Meus conhecimentos em Cloud inclui a utilização dos serviços AWS:
+- EC2, ELB, ASG, S3, VPC, ECR, ECS, EKS, RDS, LightSail, Elastic Beanstalk.
+
+Bem como habilidades em containerização e automação: 
+- Ansible, Docker e Terraform.
+
+Com experiência em tecnologias como Windows Server:
+- AD, GPO, DHCP, DNS, IIS, File Server, Virtualização.
+
+Linux (Ubuntu e CentOS):
+- Apache2, Nginx, Iptables, ProxySquid.
+
+Monitoramento:
+- Zabbix e Grafana.
+
+Sou capacitado para projetar e implementar soluções de infraestrutura e aplicativos de alto desempenho. Tenho um foco especial em automação para garantir escalabilidade e eficiência tanto em ambientes de nuvem quanto em ambientes locais.
   ##
  
 <div> 
