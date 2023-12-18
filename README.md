@@ -1,16 +1,5 @@
 ## Fala rede, sou o David, atualmente focado na area de Cloud, DevOps, SRE e tecnologias! 
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="ssdvd-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-    <img align="center" alt="ssdvd-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-    <img align="center" alt="ssdvd-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
-    <img align="center" alt="ssdvd-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img align="center" alt="ssdvd-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-  <img align="center" alt="ssdvd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ssdvd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ssdvd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="ssdvd-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-</div>
 Com 6 anos de experiência em suporte de T.I, formação em Análise e Desenvolvimento de Software e pós graduação em DevOps. 
 
 Certificações em tecnologias como: 
@@ -35,6 +24,17 @@ Monitoramento:
 - Zabbix e Grafana.
 
 Sou capacitado para projetar e implementar soluções de infraestrutura e aplicativos de alto desempenho. Tenho um foco especial em automação para garantir escalabilidade e eficiência tanto em ambientes de nuvem quanto em ambientes locais.
+<div style="display: inline_block"><br>
+    <img align="center" alt="ssdvd-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+    <img align="center" alt="ssdvd-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+    <img align="center" alt="ssdvd-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
+    <img align="center" alt="ssdvd-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img align="center" alt="ssdvd-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img align="center" alt="ssdvd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ssdvd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ssdvd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="ssdvd-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+</div>
   ##
  
 <div> 
