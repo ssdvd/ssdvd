@@ -14,6 +14,9 @@ Meus conhecimentos em Cloud inclui a utilização dos serviços AWS:
 Bem como habilidades em containerização e automação: 
 - Ansible, Docker e Terraform.
 
+CI/CD:
+- GitHub Actions
+
 Com experiência em tecnologias como Windows Server:
 - AD, GPO, DHCP, DNS, IIS, File Server, Virtualização.
 
