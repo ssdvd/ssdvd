@@ -28,7 +28,7 @@ Monitoramento:
 
 Sou capacitado para projetar e implementar soluções de infraestrutura e aplicativos de alto desempenho. Tenho um foco especial em automação para garantir escalabilidade e eficiência tanto em ambientes de nuvem quanto em ambientes locais.
 <div style="display: inline_block"><br>
-    <img align="center" alt="ssdvd-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+    <img align="center" alt="ssdvd-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
     <img align="center" alt="ssdvd-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     <img align="center" alt="ssdvd-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
     <img align="center" alt="ssdvd-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
