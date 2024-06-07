@@ -6,7 +6,6 @@ Certificações em tecnologias como:
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Cloud Practitioner 
 - Microsoft Azure Fundamentals AZ-900
-- CertiProf LGPD.
 
 Meus conhecimentos em Cloud inclui a utilização dos serviços AWS:
 - EC2, ELB, ASG, S3, VPC, ECR, ECS, EKS, RDS, LightSail, Elastic Beanstalk.
