@@ -4,7 +4,7 @@
 
 Cuido de ambientes AWS de alta complexidade e automatizo tudo o que dá para automatizar. Gosto de observabilidade, infraestrutura como código e CI/CD, porque é isso que deixa sistemas críticos estáveis, escaláveis e fáceis de operar.
 
-Trabalho com T.I. desde 2017, com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em DevOps. Inglês em nível profissional.
+Trabalho com T.I. desde 2017, com formação em Análise e Desenvolvimento de Sistemas e pós-graduação em DevOps. Inglês técnico.
 
 🌐 **Portfólio completo:** [ssdvd.github.io/portfolio](https://ssdvd.github.io/portfolio/)
 
