@@ -8,7 +8,7 @@ Trabalho com T.I. desde 2017, com formação em Análise e Desenvolvimento de Si
 
 🌐 **Portfólio completo:** [ssdvd.github.io/portfolio](https://ssdvd.github.io/portfolio/)
 
-✍️ **Também escrevo no Medium:** [medium.com/@dvd.santana98](https://medium.com/@dvd.santana98)
+✍️ **Também escrevo no Medium:** [medium.com/@ssdvd](https://medium.com/@ssdvd)
 
 ### Experiência
 
@@ -110,6 +110,6 @@ Aberto a conversas sobre Cloud, DevOps e oportunidades. Me chama:
   <a href="mailto:dvd.santana98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/-dss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.credly.com/users/dss" target="_blank"><img src="https://img.shields.io/badge/-Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"></a>
-  <a href="https://medium.com/@dvd.santana98" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/@ssdvd" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://ssdvd.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white"></a>
 </div>
